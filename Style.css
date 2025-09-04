@@ -1,9 +1,9 @@
 /* Creación de variables a  utilizar */
 :root {
-    --primary-color: #1d573e;
-    --secondary-color: #374432;
-    --text-color: #333333;;
-    --background-color: #f4f4f4;
+    --primary-color: #ee077b;
+    --secondary-color: #1ab2e0;
+    --text-color: #815252;;
+    --background-color: #8cca28;
     --light-gray: #ecf0f1;
 }
 
@@ -20,7 +20,7 @@ body {
 /*Sección para cambiar color de la barra de sección*/
 .header {
     background: var(--secondary-color);
-    color: rgb(148, 109, 109);
+    color: rgb(162, 37, 211);
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -51,7 +51,7 @@ body {
     cursor: pointer;
     padding: 0.5rem 1rem;
     background-color: var(--primary-color);
-    color: white;
+    color: rgb(235, 193, 10);
     border-radius: 5px;
 }
 
@@ -276,4 +276,5 @@ del area de Estudios realizados y experiencia laboral*/
     .list li {
         text-align: center;
     }
+
 }
